@@ -1,0 +1,12 @@
+[user]
+  name  = Takanori Ikeda
+  email = orepuri@gmail.com
+
+[core]
+  editor = emacs
+
+[alias]
+  st = status
+  br = branch
+  co = checkout
+  ci = commit
